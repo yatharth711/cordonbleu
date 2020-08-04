@@ -1,0 +1,13 @@
+#background {
+    background-color: gold;
+    text-align: center;
+}
+
+#recipe {
+    margin-left: 100px;
+    border-style:double;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color:gold;
+}
